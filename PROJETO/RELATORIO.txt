@@ -1,0 +1,15 @@
+RELATÓRIO DO GRUPO 1
+
+Membros: Carlos Eduardo, Débora, Renan, Renato, Jessyka, Gabriel Oliveira e Tadyello.
+
+
+
+Primeiramente falando sobre a Tabela Tema, escolhemos o atributo "tema" para se referenciar ao tema que decidimos seguir, juntamente com o tema
+pré-estabelecido pelos tutores. E, também, para referenciar ao que será abordado nas postagens do site. Já o atributo "abordagens" foi estabelecido para
+ter conexão com as áreas dos profissionais, em si, visando mostrar quais tipos de abordagens de terapia o site poderá proporcionar.
+
+Os atributos da Tabela Postagem foram escolhidos para poder suportar justamente todo o conteúdo necessário para se ter uma área de interação social entre
+os usuários.
+
+E, por último, os atributos da Tabela Usuário foram, como na Tabela Tema, escolhidos para poder comportar todas as informações necessárias para se criar
+um perfil online.
